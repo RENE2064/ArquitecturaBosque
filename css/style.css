@@ -124,6 +124,7 @@ a {
   border: 1px solid #e1e1e1;
   padding: 0.2rem;
   border-radius: 0.7rem;
+  align-items: center;
 }
 .telefono::before {
   content: " ";
@@ -329,6 +330,7 @@ a {
 .footer a,
 h1 {
   color: var(--blanco);
+  font-size: 2rem;
 }
 .copyright {
   background-color: var(--negro);
