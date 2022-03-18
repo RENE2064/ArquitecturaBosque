@@ -193,7 +193,7 @@ a {
   grid-template-rows: repeat(2, 1fr);
   background-image: url(../img/nosotros.jpg);
   background-repeat: no-repeat;
-  background-position: left bottom;
+  background-position: bottom center;
 }
 @media (min-width: 992px) {
   .nosotros {
